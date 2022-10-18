@@ -1,7 +1,4 @@
-matplotlib==3.2.2
 numpy==1.23.4
 pandas==1.5.0
 streamlit==1.13.0
 plotly-express==0.4.1
-pip==22.3
-gitdb==4.0.9
